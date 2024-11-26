@@ -14,9 +14,12 @@ The dataset used in this project is the **Delaney Solubility Dataset**, which is
 The following Python libraries are required to run the script:
 
 - pandas: For data manipulation and analysis.
+- sklearn : For data splitting and prediction.
+- matplotlib : For plotting the prediction graph.
   
 You can install the required dependencies using pip:
 
 ```bash
 pip install pandas
 pip install sklearn
+pip install matplotlib

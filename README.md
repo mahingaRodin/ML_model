@@ -1,4 +1,4 @@
-# Delaney Solubility Dataset
+# Solubility Prediction Model
 
 This project demonstrates how to load and process the Delaney Solubility dataset using `pandas`. The dataset contains chemical descriptors and their corresponding solubility values, which can be used to predict the solubility of a compound.
 
